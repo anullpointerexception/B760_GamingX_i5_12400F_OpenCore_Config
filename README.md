@@ -35,10 +35,8 @@ This configuration is only for the following setup:
 - Ethernet Card: Realtek RTL8125BG
 - Wifi/BT Card: ABWB 802,11 AC WI-FI + Bluetooth 4.0 PCI-Express (PCI-E) BCM94360CS2
 
-Note: 
-
-
-Pictures:
-![Bildschirmfoto 2023-10-28 um 14 22 03](https://github.com/anullpointerexception/B760_GamingX_i5_12400F_OpenCore_Config/assets/80070874/29d2ce22-c001-4bda-bef1-c1abf863b96f)
-![Bildschirmfoto 2023-10-27 um 15 00 57](https://github.com/anullpointerexception/B760_GamingX_i5_12400F_OpenCore_Config/assets/80070874/518c526f-22d4-4505-b9e5-83c758cdcc13)
-![Bildschirmfoto 2023-10-27 um 15 01 11](https://github.com/anullpointerexception/B760_GamingX_i5_12400F_OpenCore_Config/assets/80070874/e8d320bc-6fcb-4316-bdc1-2e34550c03e0)
+Pictures
+![Bildschirmfoto 2023-11-01 um 19 14 09](https://github.com/anullpointerexception/B760_GamingX_i5_12400F_OpenCore_Config/assets/80070874/9fa4865a-1e8f-4a72-97cf-fdfabf000421)
+![Bildschirmfoto 2023-11-01 um 19 10 46](https://github.com/anullpointerexception/B760_GamingX_i5_12400F_OpenCore_Config/assets/80070874/df141b82-6757-4be5-bc7f-ea848009b989)
+![Bildschirmfoto 2023-11-01 um 19 12 00](https://github.com/anullpointerexception/B760_GamingX_i5_12400F_OpenCore_Config/assets/80070874/1b92020f-e5ed-4adf-801a-1900aef139d6)
+![Bildschirmfoto 2023-11-01 um 19 12 15](https://github.com/anullpointerexception/B760_GamingX_i5_12400F_OpenCore_Config/assets/80070874/1d2c7b9e-409d-4462-b45c-d726d4d67fd9)
