@@ -1,4 +1,4 @@
-# OpenCore Configuration for Gigabyte B760 GamingX DDR4 Motherboard + Intel Core i5 12400F
+# OpenCore Configuration for Gigabyte B760M GamingX DDR4 Motherboard + Intel Core i5 12400F
 OpenCore Configuration for Gigabyte B760M Gaming X DDR4 + i5 12400F
 
 Current supported macOS Versions:
