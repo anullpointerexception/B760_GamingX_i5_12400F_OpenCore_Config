@@ -18,7 +18,6 @@ Whats currently working?
 - WiFi
 - AirDrop
 - PowerManagement added (CPUFriend + CPUFriendDataProvider) -> Working
-- Sleep
 - SMBUS
 - PCI Information
 
